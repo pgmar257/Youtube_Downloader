@@ -16,6 +16,8 @@ Para ejecutar YouTube Video Downloader, debes tener instalado Python en tu PC. D
 
 
 `` pip install -r requirements.txt ``
+
+
 `` python manage.py runserver ``
 
 - Paso 3: Finalmente, abre el navegador e ingresa a localhost:8000.
