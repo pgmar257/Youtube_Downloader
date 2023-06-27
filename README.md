@@ -1,4 +1,5 @@
 # Youtube Downloader Django  [![Made With Python](https://img.shields.io/badge/Made_With-Python-blue)](http://golang.org)
+![](img/img2.png)
 
 Este proyecto es una aplicación web fullstack que proporciona una interfaz de usuario limpia, informativa e interactiva para descargar cualquier video de YouTube utilizando un link de vídeo. Los usuarios pueden descargar el video en cualquier resolución, de igual forma también se puede descargar solo el audio
 
